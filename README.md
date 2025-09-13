@@ -1,6 +1,6 @@
 # Dotfiles
 
-**dependencies**: `hyprland btop nvim hypridle hyprlock hyperpaper ranger waybar wofi kitty hyprpolkitagent sxiv pavucontrol nwg-look grim slurp`
+**dependencies**: `hyprland btop nvim hypridle hyprlock hyprpaper ranger waybar wofi kitty hyprpolkitagent sxiv pavucontrol nwg-look grim slurp`
 
 ## GTK theme
 
@@ -14,7 +14,7 @@ python3 install.py mocha blue
 | Component      | Program                                     |
 | -------------- | ------------------------------------------- |
 | Color Scheme   | [Catppuccin mocha](https://catppuccin.com/) |
-| Window manager | [Hyperland](https://hyprland.org/)          |
+| Window manager | [Hyprland](https://hypr.land/)              |
 | Shell          | [bash](https://www.gnu.org/software/bash/)  |
 | Terminal       | [kitty](https://sw.kovidgoyal.net/kitty/)   |
 | File manager   | [ranger](https://github.com/ranger/ranger)  |
